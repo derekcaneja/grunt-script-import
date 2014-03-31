@@ -1,21 +1,21 @@
 {
-    "name"        : "grunt-import-script",
-    "description" : "Use this grunt module to, in shorthand, import various javascript files into your html files.",
+    "name"        : "grunt-script-import",
+    "description" : "Use this grunt module to import various javascript files into your html files in a shorthand format.",
     "version"     : "0.0.1",
     "author": {
         "name": "Derek Caneja"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/derekcaneja/grunt-import-script.git"
+        "url": "https://github.com/derekcaneja/grunt-script-import.git"
     },
     "bugs": {
-        "url": "https://github.com/derekcaneja/grunt-import-script/issues"
+        "url": "https://github.com/derekcaneja/grunt-script-import/issues"
     },
     "licenses": [
         {
             "type": "MIT",
-            "url": "https://github.com/derekcaneja/grunt-import-script.git/blob/master/LICENSE-MIT"
+            "url": "https://github.com/derekcaneja/grunt-script-import.git/blob/master/LICENSE-MIT"
         }
     ],
     "main": "Gruntfile.js",
@@ -24,11 +24,9 @@
     },
     "keywords": [
         "gruntplugin",
-        "replace",
-        "text",
-        "string",
-        "regex",
-        "function"
+        "import",
+        "script",
+        "development"
     ],
     "dependencies": {}
 }

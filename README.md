@@ -1,7 +1,12 @@
 grunt-script-import
 ===================
 
-Use this grunt module to, in shorthand, import various javascript files into your html files.
+Use this grunt module to import various javascript files into your html files in a shorthand format.
+
+#Installation
+```
+$ npm install grunt-script-import
+```
 
 #Gruntfile
 ```javascript
