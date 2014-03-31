@@ -38,6 +38,6 @@ script-import: {
 
 ###Import a directory and sub directories
 
-'''html
+```html
 @import directory_name/**/*.js
 ```
