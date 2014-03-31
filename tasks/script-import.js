@@ -1,6 +1,6 @@
 module.exports = function(grunt) {
     // Please see the grunt documentation for more information regarding task creation: https://github.com/gruntjs/grunt/blob/devel/docs/toc.md 
-    grunt.registerMultiTask('import-script', 'Use this grunt module to, in shorthand, import various javascript files into your html files.', function () {
+    grunt.registerMultiTask('script-import', 'Use this grunt module to, in shorthand, import various javascript files into your html files.', function () {
         var src = grunt.file.read(this.data.src);
 
         var singleAdds    = {};
