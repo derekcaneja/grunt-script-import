@@ -26,18 +26,18 @@ script-import: {
 
 ###Import a file
 
-'''html
+```html
 @import path/to/script.js
 ```
 
 ###Import a directory
 
-'''html
+```html
 @import directory_name/*.js
 ```
 
 ###Import a directory and sub directories
 
-'''html
+```html
 @import directory_name/**/*.js
 ```
